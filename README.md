@@ -10,4 +10,4 @@
    4. Тесты
    5. Лучшее решение: можно описать словами + приложить сниппет/скрин.
 
-token1:  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
+token1: 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
