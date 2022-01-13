@@ -12,7 +12,7 @@
    4. Тесты
    5. Лучшее решение: можно описать словами + приложить сниппет/скрин.
 
-token1: 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
+token1: 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
 
 FYI:
 Возможно будут трудности с гитхабом.
